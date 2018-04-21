@@ -12,6 +12,7 @@
 		6227F9FA208839F4005F311A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6227F9F8208839F4005F311A /* Main.storyboard */; };
 		6227F9FC208839F4005F311A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6227F9FB208839F4005F311A /* Assets.xcassets */; };
 		6227F9FF208839F4005F311A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6227F9FD208839F4005F311A /* LaunchScreen.storyboard */; };
+		6227FA0720883B62005F311A /* Count_Taiwan.png in Resources */ = {isa = PBXBuildFile; fileRef = 6227FA0620883B61005F311A /* Count_Taiwan.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6227F9FB208839F4005F311A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6227F9FE208839F4005F311A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6227FA00208839F4005F311A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6227FA0620883B61005F311A /* Count_Taiwan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Count_Taiwan.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		6227F9F3208839F4005F311A /* Count_oni */ = {
 			isa = PBXGroup;
 			children = (
+				6227FA0620883B61005F311A /* Count_Taiwan.png */,
 				6227F9F4208839F4005F311A /* AppDelegate.swift */,
 				6227F9F6208839F4005F311A /* ViewController.swift */,
 				6227F9F8208839F4005F311A /* Main.storyboard */,
@@ -126,6 +129,7 @@
 				6227F9FF208839F4005F311A /* LaunchScreen.storyboard in Resources */,
 				6227F9FC208839F4005F311A /* Assets.xcassets in Resources */,
 				6227F9FA208839F4005F311A /* Main.storyboard in Resources */,
+				6227FA0720883B62005F311A /* Count_Taiwan.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
